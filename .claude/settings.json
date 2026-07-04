@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm -rf /Users/ilyossuyunov/Desktop/portfolio/.git && echo \"O'chirildi\")"
+    ],
+    "additionalDirectories": [
+      "/Users/ilyossuyunov/Desktop/portfolio/.git"
+    ]
+  }
+}

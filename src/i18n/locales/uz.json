@@ -1,0 +1,80 @@
+{
+  "nav": {
+    "home": "Bosh sahifa",
+    "about": "Men haqimda",
+    "skills": "Ko‘nikmalar",
+    "projects": "Loyihalar",
+    "contact": "Aloqa"
+  },
+  "hero": {
+    "eyebrow": "Frontend dasturchi",
+    "name": "Maxmud Orifov",
+    "title": "Tinch, zamonaviy veb tajribalarga ega bo‘lgan yechimlar yarataman.",
+    "description": "Men React, TypeScript va dizayn tizimlarida oson tushunarli, premium ko‘rinadigan interfeyslar quraman.",
+    "resume": "Rezyume yuklash",
+    "contact": "Bog‘lanish"
+  },
+  "about": {
+    "title": "Men haqimda",
+    "description": "Men junior frontend dasturchiman; toza, saqlanadigan kod yozishga va tafsilotlarga e’tibor qaratgan holda sifatli interfeyslar yaratishga qaratilganman.",
+    "educationTitle": "Ta’lim",
+    "educationText": "Hozirda Mars IT Schoolda frontend yo‘nalishida o‘qiyman, bu yerda UI arxitektura, zamonaviy JavaScript va mahsulotga yo‘naltirilgan dasturlash bo‘yicha ko‘nikmalarimni mustahkamlayapman.",
+    "focusTitle": "Hozirgi yo‘nalish",
+    "focusText": "Men React, TypeScript va dizayn tizimlari yordamida foydalanishga qulay, tez va chiroyli tajribalar yaratishni yoqtiraman."
+  },
+  "skills": {
+    "title": "Ko‘nikmalar",
+    "description": "O‘ylangan va zamonaviy interfeyslar yaratish uchun ixcham asboblar to‘plami.",
+    "items": {
+      "html": "HTML5",
+      "css": "CSS3",
+      "javascript": "JavaScript",
+      "typescript": "TypeScript",
+      "react": "React",
+      "next": "Next.js",
+      "github": "GitHub",
+      "reactQuery": "React Query",
+      "reactRouter": "React Router"
+    }
+  },
+  "education": {
+    "title": "O‘rganish yo‘li",
+    "description": "Amaliyot, takomillashtirish va qo‘lda qurish orqali o‘tadigan barqaror yo‘l."
+  },
+  "projects": {
+    "title": "Tanlangan loyihalar",
+    "description": "Hozirgi yo‘nalishim va mahsulot fikrimni aks ettiruvchi bir nechta kontseptlar.",
+    "comingSoon": "Yaqin orada"
+  },
+  "contact": {
+    "title": "Aloqa",
+    "description": "Agar loyihangiz bo‘lsa yoki bog‘lanmoqchi bo‘lsangiz, men siz bilan eshitishni istayman.",
+    "name": "Ism",
+    "email": "Email",
+    "message": "Xabar",
+    "send": "Yuborish",
+    "sending": "Yuborilmoqda...",
+    "success": "Xabaringiz muvaffaqiyatli yuborildi.",
+    "fallbackOpen": "Gmail qoralama ochildi. Xabarni yetkazish uchun Yuborish tugmasini bosing.",
+    "errors": {
+      "nameRequired": "Iltimos, ismingizni kiriting.",
+      "emailRequired": "Iltimos, email manzilingizni kiriting.",
+      "emailInvalid": "Iltimos, to‘g‘ri email manzilni kiriting.",
+      "messageRequired": "Iltimos, xabarni yozing.",
+      "spam": "Forma spam sifatida bloklandi.",
+      "rateLimited": "Iltimos, yana bir marta yuborishdan oldin bir oz kuting.",
+      "unconfigured": "Email yuborish hali sozlanmagan. Yuborishni yoqish uchun EmailJS ma’lumotlarini muhit fayliga qo‘shing."
+    },
+    "placeholder": {
+      "name": "Ismingiz",
+      "email": "your@email.com",
+      "message": "Loyihangiz haqida gapirib bering"
+    },
+    "email": "Email",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "footer": {
+    "crafted": "2026-yilda g‘amxo‘rlik bilan yaratilgan."
+  }
+}

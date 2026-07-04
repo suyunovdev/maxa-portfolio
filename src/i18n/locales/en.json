@@ -1,0 +1,80 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "eyebrow": "Frontend Developer",
+    "name": "Maxmud Orifov",
+    "title": "Crafting calm, modern web experiences.",
+    "description": "I build thoughtful interfaces with React, TypeScript, and design systems that feel effortless and premium.",
+    "resume": "Download Resume",
+    "contact": "Contact Me"
+  },
+  "about": {
+    "title": "About me",
+    "description": "I am a junior frontend developer focused on writing clean, maintainable code and creating polished interfaces with strong attention to detail.",
+    "educationTitle": "Education",
+    "educationText": "I am currently studying frontend development at Mars IT School, where I strengthen my skills in UI architecture, modern JavaScript, and product-minded development.",
+    "focusTitle": "Current focus",
+    "focusText": "I enjoy building accessible, fast, and elegant experiences with React, TypeScript, and design systems."
+  },
+  "skills": {
+    "title": "Skills",
+    "description": "A compact toolkit for creating thoughtful, modern interfaces.",
+    "items": {
+      "html": "HTML5",
+      "css": "CSS3",
+      "javascript": "JavaScript",
+      "typescript": "TypeScript",
+      "react": "React",
+      "next": "Next.js",
+      "github": "GitHub",
+      "reactQuery": "React Query",
+      "reactRouter": "React Router"
+    }
+  },
+  "education": {
+    "title": "Learning path",
+    "description": "A steady path of practice, refinement, and hands-on building."
+  },
+  "projects": {
+    "title": "Selected projects",
+    "description": "A few concepts that reflect my current direction and product thinking.",
+    "comingSoon": "Coming soon"
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "If you have a project in mind or want to connect, I would love to hear from you.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send",
+    "sending": "Sending...",
+    "success": "Your message has been sent successfully.",
+    "fallbackOpen": "Gmail draft opened. Please press Send to deliver it.",
+    "errors": {
+      "nameRequired": "Please enter your name.",
+      "emailRequired": "Please enter your email address.",
+      "emailInvalid": "Please enter a valid email address.",
+      "messageRequired": "Please enter your message.",
+      "spam": "The form was blocked as spam.",
+      "rateLimited": "Please wait a moment before sending another message.",
+      "unconfigured": "Email delivery is not configured yet. Add your EmailJS credentials to the environment file to enable sending."
+    },
+    "placeholder": {
+      "name": "Your name",
+      "email": "your@email.com",
+      "message": "Tell me about your project"
+    },
+    "email": "Email",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "footer": {
+    "crafted": "Crafted with care in 2026."
+  }
+}
